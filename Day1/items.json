@@ -1,0 +1,58 @@
+{
+    "Electronics": {
+        "smartphones": {
+            "price": 699,
+            "count": 100
+        },
+        "laptops": {
+            "price": 999,
+            "count": 50
+        },
+        "tablets": {
+            "price": 499,
+            "count": 75
+        }
+    },
+    "Books": {
+        "fiction": {
+            "price": 15,
+            "count": 150
+        },
+        "non-fiction": {
+            "price": 20,
+            "count": 148
+        },
+        "children": {
+            "price": 10,
+            "count": 300
+        }
+    },
+    "Clothing": {
+        "shirts": {
+            "price": 25,
+            "count": 117
+        },
+        "pants": {
+            "price": 40,
+            "count": 80
+        },
+        "jackets": {
+            "price": 60,
+            "count": 60
+        }
+    },
+    "Furniture": {
+        "sofas": {
+            "price": 1200,
+            "count": 30
+        },
+        "tables": {
+            "price": 300,
+            "count": 40
+        },
+        "chairs": {
+            "price": 150,
+            "count": 100
+        }
+    }
+}
